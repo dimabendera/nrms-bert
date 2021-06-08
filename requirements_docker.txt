@@ -1,0 +1,7 @@
+tqdm
+transformers
+tokenizers
+numpy
+pandas
+dacite
+omegaconf
